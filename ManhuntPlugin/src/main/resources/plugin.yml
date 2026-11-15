@@ -1,0 +1,8 @@
+name: ManhuntPlugin
+version: 1.0.0
+main: com.example.manhunt.ManhuntPlugin
+api-version: '26.3'
+commands:
+  manhunt:
+    description: 맨헌트 설정 메뉴를 엽니다.
+    permission: manhunt.admin
